@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>sound/battle.mp3</file>
+        <file>sound/bgbest.mp3</file>
+        <file>sound/bgMenu.mp3</file>
+        <file>sound/bgShop.mp3</file>
+        <file>sound/Lastboss.mp3</file>
+    </qresource>
+</RCC>
