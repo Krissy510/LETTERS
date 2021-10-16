@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/bg.png</file>
+        <file>img/correct.png</file>
+        <file>img/dududu.png</file>
+        <file>img/hurtenemy.png</file>
+        <file>img/hurtplayer.png</file>
+        <file>img/incorrect.png</file>
+        <file>img/player.png</file>
+        <file>img/icon.png</file>
+        <file>img/max.png</file>
+        <file>img/mul.png</file>
+        <file>img/potion.png</file>
+        <file>img/1.png</file>
+        <file>img/2.png</file>
+        <file>img/3.png</file>
+        <file>img/0.png</file>
+        <file>img/4.png</file>
+        <file>img/6.png</file>
+        <file>img/enemytt.png</file>
+        <file>img/7.png</file>
+        <file>img/shopee.png</file>
+        <file>img/5.png</file>
+        <file>img/godskin.png</file>
+        <file>img/win.png</file>
+        <file>img/score_board.jpg</file>
+        <file>img/tutorial.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sound/battle.mp3</file>
+        <file>sound/bgbest2.mp3</file>
+        <file>sound/bgShop.mp3</file>
+        <file>sound/slash.mp3</file>
+        <file>sound/dead.mp3</file>
+        <file>sound/Lastboss.mp3</file>
+        <file>sound/Tension.mp3</file>
+        <file>sound/congrat.mp3</file>
+        <file>sound/highscoreBG.mp3</file>
+        <file>sound/bgMenu.mp3</file>
+    </qresource>
+</RCC>
