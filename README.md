@@ -6,6 +6,7 @@ The purpose of this game is to win all the fights with the highest score.
 # Purpose
 I always want to create a MEME word puzzle game with combat system which I thought would fit the requirements for my project during year 1 semester 2.
 # Feature
+[Youtube Explanation](https://youtu.be/G8Iw_GghwYE)<br>
 The game will contain 6 normal fights and 2 boss fights.<br>
 You will have to create a vocab to be able to inflict damage to a monster.<br>
 However, your damage will correlated to the length of the word and also there's a special character which will boost damage further.
