@@ -13,7 +13,7 @@ You will have to create a vocab to be able to inflict damage to a monster.<br>
 However, your damage will correlated to the length of the word and also there's a special character which will boost damage further.
 
 # Tech Stack
-* Programming Lanugage: C++
+* Programming Language: C++
 * Framework: [Qt](https://www.qt.io/)
 * Database: SQLite
 # License
